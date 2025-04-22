@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Cases - Kaggle Datasets
+# Machine Learning Cases - Kaggle Datasets
 
 This repository contains several **Machine Learning cases** using public datasets from [Kaggle](https://www.kaggle.com/), focusing on **classification**, **class imbalance**, **threshold adjustment**, **complete pipelines**, and **specific metrics like Recall and Precision**, especially in problems such as **fraud detection**.
 
